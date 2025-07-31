@@ -351,7 +351,7 @@
     <div class="col">
       <div class="py-5 px-auto">
         <div class="row">
-          <h1>Prestamos de Equipos del Departamento de Transversal.</h1>
+          <h1>Equipos del Departamento de Transversal.</h1>
         </div>
       </div>
       <div class="py-5 px-auto">
