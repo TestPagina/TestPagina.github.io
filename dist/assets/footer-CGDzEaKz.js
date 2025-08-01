@@ -12,7 +12,7 @@
             </a>
         </li>
         <li>
-            <a href="/public/files/SolicitudDePrestamoUA.pdf" class="nav-link text-secondary" download>
+            <a href="/files/SolicitudDePrestamoUA.pdf" class="nav-link text-secondary" download>
             <img class="bi d-block mx-auto mb-1" src=${l} alt="calendar image" width="30px", height="30px">
             Formulario
             </a>
