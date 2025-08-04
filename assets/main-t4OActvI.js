@@ -298,14 +298,14 @@ import{S as ui,a as di}from"./footer-CGDzEaKz.js";var $="top",x="bottom",R="righ
                             L 92.970553 144.07854
                             z`}ui("#header");const _c="https://outlook.office365.com/owa/calendar/8667a776adc440cb9bc967fe50c4b173@uartes.edu.ec/0c9fdb6cdd004bed8b175baa4556dc891274717747132370704/calendar.html";document.querySelector("#app").innerHTML=`
 <div class="container">
-  <div class="row">
+  <div class="row pt-4 px-4">
     <div class="col leftColSt">
       <div class="pt-5 pb-3 ps-4 pe-auto">
         <div class="row">
           <h1>Préstamos del Departamento de Transversal</h1>
         </div>
       </div>
-      <div class="py-2 pb-3 ps-4 pe-auto">
+      <div class="pt-5 pb-3 ps-4 pe-auto">
       <div><h2>Pasos para realizar un préstamos</h2></div>
         <div class="row">
           <ul class="ps-5 fs-5">
@@ -319,7 +319,7 @@ import{S as ui,a as di}from"./footer-CGDzEaKz.js";var $="top",x="bottom",R="righ
       </div>
     </div>
 
-    <div class="col">
+    <div class="col pt-4">
 
       <div class="row">
         <div class="py-3 px-auto">
